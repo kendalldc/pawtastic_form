@@ -88,7 +88,6 @@ this.setState({submitted:true})
  <option disabled hidden>Gender</option>
 <option>Female</option>
 <option>Male</option>
-<option>Other</option>
 </select> <br/>
 </div>
 <br/>
