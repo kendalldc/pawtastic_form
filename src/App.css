@@ -25,6 +25,7 @@ h2{
     border: solid white;
     border-radius:15px ;
     background-color: rgb(221, 115, 168);
+      display: grid;
 
 
 }
