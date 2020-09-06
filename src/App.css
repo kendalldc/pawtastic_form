@@ -27,6 +27,7 @@ h2{
     background-color: rgb(221, 115, 168);
       display: grid;
   align-items: baseline;
+  width: 500px;
 
 
 }
