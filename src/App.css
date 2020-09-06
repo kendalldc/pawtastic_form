@@ -25,8 +25,8 @@ h2{
     border: solid white;
     border-radius:15px ;
     background-color: rgb(221, 115, 168);
-      display: grid;
-  align-items: baseline;
+    display: grid;
+    align-items: baseline;
   width: 500px;
   height: 300px;
 
